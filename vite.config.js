@@ -1,4 +1,4 @@
 
 export default {
-    base: '/maths-homework-marker/',
+  base: '/maths-homework-marker/',
 }
